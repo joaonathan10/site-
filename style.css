@@ -47,7 +47,7 @@ font-family: 'Chakra Petch', sans-serif;
 .botoes{
     display: block;
 }
-@media and (:-min-window: 768px) {
+@media screen and (min-width: 768px) {
     .botoes{
         display: flex;
     }
